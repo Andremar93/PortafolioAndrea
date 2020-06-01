@@ -214,7 +214,7 @@ figure {
 }
 
 .contact {
-  background: #056fff;
+  background: var(--main-color);
   color: white;
   height: 150px;
   display: flex;
